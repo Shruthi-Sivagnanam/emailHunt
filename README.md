@@ -1,6 +1,5 @@
 # Mass Mail Dispatcher - Exposys Data Labs Internship Project
 
-![Screenshot (112)](https://github.com/Shruthi-Sivagnanam/emailHunt/assets/82823305/bb4a92eb-c3f6-43d7-85a2-2fc8c5425934)
 
 ## Objective of the Project
 
