@@ -76,7 +76,7 @@ export default function Address() {
                 />
               </Col>
               <p style={{ color: "red" }}>
-                **Make sure email ids in the csv file should under the column
+                **Make sure email ids in the csv file should be under the column
                 EmailAddress
               </p>
             </Form.Group>
