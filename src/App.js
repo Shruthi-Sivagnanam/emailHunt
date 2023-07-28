@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Form from "./components/Form";
 import { Row, Col } from "react-bootstrap";
 import About from "./components/About";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Form />
         </Col>
       </Row>
+      <Footer />
     </div>
   );
 }
